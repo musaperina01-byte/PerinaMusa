@@ -1,0 +1,14 @@
+#Personal Information 
+
+name="Perina Musa"
+print ("Fullname: “, name)
+print (type (name))
+age=19
+print ("Age: ", age)
+print (type(age))
+height=154
+print ("Height :  “, height)
+print (type(height))
+working=True
+print ("Currently working?: “, working)
+print (type (working))
